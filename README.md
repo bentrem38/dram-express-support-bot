@@ -1,3 +1,4 @@
+ ![DRAM Express Assistant demo](assets/dram_express_pic.png)
 # DRAM Express Assistant
 
 A fake customer support assistant for a fake company, built to
